@@ -1,0 +1,39 @@
+---
+title: R语言系列
+author: wmj
+date: '2018-07-22'
+slug: r-kebiao
+categories:
+  - R
+tags: []
+---
+
+
+
+## R语言系列讲座
+
+
+```{r message=FALSE, warning=FALSE}
+library(tidyverse)
+library(knitr)
+library(kableExtra)
+```
+
+
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+kebiao <- read_csv("./kebiao/kebiao.csv")
+```
+
+
+```{r echo=FALSE, message=FALSE, warning=FALSE}
+knitr::kable(kebiao, booktabs = T)  %>%
+  kable_styling("striped")
+```
+
+## 联系我们
+
+wangmj@sicnu.edu.cn 或者加入我们的QQ群
+   
+```{r echo = FALSE, out.width = "45%"}
+knitr::include_graphics("./images/QQgroup.png")
+```
