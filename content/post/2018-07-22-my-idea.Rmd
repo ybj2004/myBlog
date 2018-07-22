@@ -1,0 +1,15 @@
+---
+title: my idea
+author: wmj
+date: '2018-07-22'
+slug: my-idea
+categories: []
+tags: []
+---
+
+
+## r code
+```{r}
+1+1
+```
+
