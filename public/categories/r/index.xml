@@ -6,10 +6,19 @@
     <description>Recent content in R on A Hugo website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 Jul 2015 21:13:14 -0500</lastBuildDate>
+    <lastBuildDate>Sun, 22 Jul 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/r/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>R语言系列</title>
+      <link>/2018/07/22/r-kebiao/</link>
+      <pubDate>Sun, 22 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/07/22/r-kebiao/</guid>
+      <description>R语言系列讲座library(tidyverse)library(knitr)library(kableExtra)序号名称内容时间1《R语言入门》base R2018/9/12《R语言之数据可视化》ggplot22018/9/23《R语言之可重复性研究》Rmarkdown + bookdown + blogdown2018/9/34《R语言之数据处理》tidyr + dplyr + lubridate2018/9/45《R语言之数据分析》purrr2018/9/56《R语言之机器学习》Regression, naive Bayes, Neural Networks, Clustering2018/9/67《R语言之预测建模》caret + recipe2018/9/78《R语言之正则表达式》stringr + Regular Expressions2018/9/89《R语言之网页爬虫》rvest + SelectorGadget2018/9/910《R语言之文本挖掘》tidyverse + tidytext2018/9/1011《R语言之社会网络分析》Tidying up your network analysis with tidygraph and ggraph2018/9/1112《R语言之地理数据处理》sf:Tidy spatial data analysis2018/9/1213《R语言之统计推理》infer:tidy statistical inference2018/9/1314《R语言之时间序列分析》tibbletime:time series and financial analysis in the tidyverse2018/9/1415《R语言之Kaggle案例》kaggle2018/9/15联系我们wangmj@sicnu.</description>
+    </item>
     
     <item>
       <title>Hello R Markdown</title>
